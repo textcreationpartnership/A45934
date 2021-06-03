@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Instructions for the more due and regular payment of the quarters of our forces</title>
+            <author>England and Wales. Sovereign (1689-1694 : William and Mary)</author>
+         </titleStmt>
+         <extent>Approx. 9KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A45934</idno><idno type="EEBO-CITATION">11780851</idno>
+  <idno type="VID">49045</idno>
+  <idno type="EEBO-PROQUEST">2240866712</idno>
+  
+            <idno type="STC">Wing I247</idno>
+            <idno type="STC">ESTC R31146</idno>
+            <idno type="OCLC">11780851</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A45934)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 49045)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1485:32)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Instructions for the more due and regular payment of the quarters of our forces</title>
+                  <author>England and Wales. Sovereign (1689-1694 : William and Mary)</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Charles Bill, and the executrix of Thomas Newcomb, deceas'd ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCXCII [1692]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>"Given at our court at Whitehall this thirteenth day of June, 1692. In the fourth year of our reign. By Her Majesties Command. Geo. Clarke" -- p. 4</note>
+                  <note>Imperfect: print showthrough, with slight loss of print.</note>
+                  <note>Reproduction of original in Chetham's Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">England and Wales. --  Army. --  Appropriations and expenditures.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Simon Charles </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Simon Charles</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="instructions">
+            <pb n="1" facs="tcp:49045:1"/>
+            <head type="illustration">
+               <figure>
+                  <figDesc>royal blazon or coat of arms (William and Mary)</figDesc>
+                  <p>
+                     <label>WM RR</label>
+                  </p>
+                  <q>HONI SOIT QVI MAL Y PENSE</q>
+                  <q>DIEV ET MON DROIT</q>
+               </figure>
+            </head>
+            <head>INSTRUCTIONS For the more Due and Regular Pay<g ref="char:EOLhyphen"/>ment of the QUARTERS of Our FORCES.</head>
+            <opener>
+               <signed>MARIE R.</signed>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas it is necessary for the Ease of Our Subjects, and for Main<g ref="char:EOLhyphen"/>taining the good Discipline of Our Forces, That constant Pay<g ref="char:EOLhyphen"/>ment be made by the several Regiments, Troops and Com<g ref="char:EOLhyphen"/>panies of Horse, Foot and Dra<g ref="char:EOLhyphen"/>goons employ'd in Our Service, of what shall be due from them for their Quarters, as well in Garison as elsewhere; Our Will and Pleasure is, That upon the Arrival of any Regi<g ref="char:EOLhyphen"/>ment, Troop or Company in any Garison, Town or Vil<g ref="char:EOLhyphen"/>lage, Publication be immediately made, and Notice given by sound of Trumpet, Beat of Drum, or otherwise, to the Chief Magistrate or Civil Officer, That they do not give any Officer or Soldier Credit in their Quarters beyond the Rates hereafter mentioned; and that according to the said Rates, the Quarters shall be paid before the De<g ref="char:EOLhyphen"/>parture of the said Regiment, Troop or Company from the same. And that the Payments may be the more pun<g ref="char:EOLhyphen"/>ctually
+<pb n="2" facs="tcp:49045:2"/> and Regularly made, Our further Will and Plea<g ref="char:EOLhyphen"/>sure is, That every Officer, to whom it belongs, or that does actually receive the Pay or Subsistence-Money, ei<g ref="char:EOLhyphen"/>ther for a whole Regiment, or for particular Troops, or Companies, or otherwise, shall immediately, upon each Receipt of every particular Sum which shall from time to time be Paid, Return'd, or come to his Hand, on ac<g ref="char:EOLhyphen"/>count of Pay or Subsistence, give publick Notice there<g ref="char:EOLhyphen"/>of to all Persons keeping Inns, or other Places, or Houses where Officers or Soldiers are Quartered; and shall also appoint the Inn-keepers or other Inhabitants to Repair to the said Officers Quarters, at such time as they shall ap<g ref="char:EOLhyphen"/>point for the Distribution and Payment of the said Pay or Subsistence-Money to the Officers and Soldiers, which shall be within Four Days at the farthest, after the Re<g ref="char:EOLhyphen"/>ceipt of the same. And the said Inn-keepers, and other Inhabitants, shall then and there acquaint such Officer or Officers with the Accounts or Debts, if any be, be<g ref="char:EOLhyphen"/>tween them and the Officers and Soldiers so Quartered in their respective Houses. Which said Account the said Officer or Officers are hereby required to accept of, and immediately pay the same, before any Part of the said Pay, or Money for Subsistence be Distributed, either to the Officers or Soldiers, provided the Account exceed not, For a Comission-Officer of Horse (being under the De<g ref="char:EOLhyphen"/>gree of a Captain) for such Officers Diet, small Beer, and Hay and Straw for his Horse, Two shillings <hi>per diem;</hi> For a Commission-Officer of Dragoons (under the Degree of a Captain) for such Officers Diet, small Beer, and Hay and Straw for his Horse, Eighteen pence <hi>per diem;</hi> Nor for a Commission-Officer of Foot, under the Degree of a Captain, for his Diet and small Beer, One shilling <hi>per diem;</hi> And if such Officer shall have Horse or Horses, for each such Horse Six pence <hi>per diem;</hi> Nor for one Light-Horse<g ref="char:EOLhyphen"/>mans Diet and small Beer, and Hay and Straw for his Horse, One shilling <hi>per diem;</hi> Nor for one Dragoon for Diet and small Beer, and Hay and Straw for his Horse, Nine pence; Nor for one Foot-Soldiers Diet and small Beer, Four pence. And if any Officer or Officers, as aforesaid, shall not give Notice, as aforesaid, and shall not immediately, upon producing such Accounts stated, satisfie, content and pay the same, upon Complaint and Oath thereof made by any two credible Witnesses, at the next Quarter-Sessions for the County, Barony, City or Place, where such Quarters were, the Pay-master of Our Forces is hereby required,
+<pb n="3" facs="tcp:49045:3"/> upon Cretificate of he Justices of the Peace, or any two of them, before whom such Oath was made, of the sums due upon such Account, and the Person to whom the same is owing, to satisfie and pay the said Sums out of the Ar<g ref="char:EOLhyphen"/>rears due to the said Officer or Officers, who have recei<g ref="char:EOLhyphen"/>ved and are to distribute and pay the Subsistence or Money aforesaid; and if no Arrears are due to such Officers, then to pay the same out of the contingent Money of the Army, to be repaid out of the growing Pay of the Officers or Soldiers from whom the said money was due: And such Of<g ref="char:EOLhyphen"/>ficer or Officers, who have received and are to distribute the Subsistence or Money, as aforesaid, for neglecting to give Notice of the Receipt of the same, not paying the Quar<g ref="char:EOLhyphen"/>ters of the Regiments, Troops and Companies for whom he or they have received Pay or Subsistence, or not distri<g ref="char:EOLhyphen"/>buting the Remainder thereof, (after the Quarters are discharg'd) to the Officers and Soldiers to whom it is due, upon Proof thereof made before the Colonel or Comman<g ref="char:EOLhyphen"/>der in Chief of the Regiment, or the Judge Advocate or his Deputy, upon Oath, shall be Cashiered and Dismiss'd Our Service. And where it shall happen that the Subsi<g ref="char:EOLhyphen"/>stence due to any Regiment, Troop or Company is not re<g ref="char:EOLhyphen"/>mitted to them, and they unable, for that reason, to pay their Quarters, as before directed, Our Will and Pleasure is, That the Officer in chief with the said Regiment, Troop or Company, before his or their Departure out of the Quarters, where the said Regiment, Troop or Company shall remain for any time whatsoever, do make up the Accounts with every Person with whom such Regiment, Troop or Company have Quarter'd, of what is due accord<g ref="char:EOLhyphen"/>ing to the foregoing Regulation, and give a Certificate, by him sign'd, to the Party or Parties to whom such Money is owing, or to the Chief Magistrate or Magistrates of the Town or Towns, where the said Regiment Troop or Company is Quarter'd, to the end the said Certificate may be transmitted to the Pay-master of Our Forces, who is immediately to make Payment of the Sum or Sums so certified to the Person or Persons to whom the same is due, or their Order. And if any Officer or Officers, as afore<g ref="char:EOLhyphen"/>said, shall neglect or refuse to make up the Accounts of the Regiment, Troops or Companies under his Command, or give Bills for the same, as is before directed, upon Proof thereof made by two Witnesses before the Commander in Chief of the Regiment, or the Judge Advocate, or his De<g ref="char:EOLhyphen"/>puty, he or they shall be Cashiered.</p>
+            <pb n="4" facs="tcp:49045:4"/>
+            <p>And that We may the better be satisfied that the Offi<g ref="char:EOLhyphen"/>cers and Soldiers of Our Army do pay an exact Obedience to the Orders We have hereby given, Our Will and Plea<g ref="char:EOLhyphen"/>sure is, That before any Regiment, Troop or Company march out of, or leave their Quarters, the Officer that commands do cause the same to be drawn up, in the Pre<g ref="char:EOLhyphen"/>sence of the Chief Magistrate of the Place, of whom he is to enquire whether Disorders have been committed during their stay there, or Quarters left unpaid, and upon Proof thereof to cause immediate Payment and Satisfacti<g ref="char:EOLhyphen"/>on to be made: And in case no Disorders have been com<g ref="char:EOLhyphen"/>mitted, or the same, upon complaint redress'd, and pu<g ref="char:EOLhyphen"/>nished, the said chief Magistrate or Magistrates are here<g ref="char:EOLhyphen"/>by required, at the head of the said Regiment, Troop or Company, to give a Certificate of their good Behaviour in the said Quarters, and of the due Payment thereof, either by Money or Bills, which said Certificates are from time to time to be returned to the Pay-master General of Our Forces, to be laid by him before Us.</p>
+            <p>And We do hereby strictly Require and Command all Officers to take a particular care that their Soldiers be<g ref="char:EOLhyphen"/>have themselves civilly and orderly in their Quarters; and that they do not themselves, nor suffer the Soldiers under their Command, to destroy or molest the Game by Dogs, Guns, or otherwise, as they will answer the con<g ref="char:EOLhyphen"/>trary at their utmost Peril.</p>
+            <closer>
+               <dateline>Give at Our Court at <hi>Whitehall</hi>
+                  <date>this Thirteenth Day of <hi>June,</hi> 1692. In the Fourth Year of Our Reign.</date>
+               </dateline>
+               <signed>By Her Majesties Command. <hi>Geo. Clarke.</hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Charles Bill,</hi> and the Executrix of <hi>Thomas Newcomb,</hi> deceas'd, Printers to the King and Queens most Excellent Majesties. MDCXCII.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
